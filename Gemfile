@@ -33,7 +33,7 @@ group :test do
 #  gem 'rb-notifu', '0.0.4'
   gem 'win32console', '1.3.0', :platforms => [:mswin, :mingw]
 #  gem 'guard-spork', '0.3.2'
-#  gem 'spork', '0.9.0'
+  gem 'spork', '0.9.0'
 end
 
 group :production do
